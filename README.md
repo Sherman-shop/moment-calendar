@@ -4,7 +4,7 @@
 
 按日期和行业找节日活动灵感，带倒计时、落地玩法、可复制文案。
 
-**在线体验：** 部署后填写 https://你的用户名.github.io/moment-calendar/
+**🌐 在线体验：** <https://Sherman-shop.github.io/moment-calendar/>
 
 ## 使用方式
 
